@@ -1,19 +1,5 @@
 #!/usr/bin/env python
-"""
-COMP3109 final project. By David Barrera
 
-With contributions from Discord users:
-clark
-Always
-Ynnad00
-Kushaforei
-Breezy
-Andyimo
-EnderTheNetrunner
-nicman
-
-COMP3109 final project COMPLETED. By Kenji Isak Laguan 101160737
-"""
 import nacl
 import nacl.secret
 import nacl.utils
