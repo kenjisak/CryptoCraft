@@ -1,4 +1,4 @@
-COMP 3109 Applied Cryptography and Authentication Coursework
+COMP 3109 Applied Cryptography and Authentication Final Project Setup Instructions
 
 If you already have Python 3.10 or later installed, you’ll need to install Python 3.9, 
 since 3.10 is currently unsupported by Tink. To determine what version of Python you are using: 
