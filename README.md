@@ -18,3 +18,6 @@ It can be installed directly from PyPi by doing:
 The Python implementation of this library (known simply as tink)
 can be installed from PyPi (see documentation) by running: 
   pip3 install tink
+
+To run the Application enter the following command:
+  python3 CryptoCraftRun.py
